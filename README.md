@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋###
 
+I'm curently learning in Hexlet.  
+I focus on Back-end dev.  
+I'm glad if you would help me. I am a fresman in devops.  
+:pray:
 <!--
 **LAMENTIN28/LAMENTIN28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
